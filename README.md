@@ -16,7 +16,7 @@ to be cooked on either side and taken off the pan at the right moment before
 they burn for optimal deliciousness.
 
 <p align="center">
-  <img src="http://i.imgur.com/yti5NLe.gif"/>
+  <img src="https://i.imgur.com/yti5NLe.gif"/>
 </p>
 
 Go on and run the game. It doesn't quite work yet, because some essential bits
